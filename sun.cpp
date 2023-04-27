@@ -4,5 +4,5 @@ int main(){
     int a = 5;
     int b = 10;
     int sum = a+b;
-    cout << " sum is : " << sum << endl;
+    cout << " summation is : " << sum << endl;
 }
